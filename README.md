@@ -4,18 +4,12 @@ There are 3 directories:
 
 -> Master:
 
- + Blynk connection.
- + 
+ + Blynk connection,
  + Turn on/off lights,
- + 
  + User communication,
- + 
  + Motion sensor (PIR),
- + 
  + Light sensor ,
- + 
  + Buttons,
- + 
   
 -> Communicator:
  +Reading sensors data and giving it to Master using I2C
