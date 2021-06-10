@@ -1,1 +1,1 @@
-*.ino file is program file
+*.ino file is main program file
