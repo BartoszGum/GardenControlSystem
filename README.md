@@ -3,7 +3,9 @@
 There are 3 directories:
 
 -> Master:
+
  -Blynk connection
+ 
  -Turn on/off lights 
  -User communication
  -Motion sensor (PIR)
