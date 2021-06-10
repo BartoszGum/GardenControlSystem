@@ -1,0 +1,16 @@
+{
+  "osSciezka": {
+    "pin": 18,
+    "btnPin": 26,
+    "motionPin": 13,
+    "vPin": "V12",
+    "lighteningTime": 25
+  },
+  "osAltana": {
+    "pin": 22,
+    "btnPin": 25,
+    "motionPin": 13,
+    "vPin": "V14",
+    "lighteningTime": 0
+  }
+}

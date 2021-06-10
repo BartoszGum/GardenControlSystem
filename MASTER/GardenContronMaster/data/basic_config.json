@@ -1,0 +1,19 @@
+{
+  "isI2COn": true,
+  "isBlynkManualSync": true,
+  "WiFi": {
+    "1": {
+      "SSID": "ssid",
+      "pass": "pass"
+    },
+    "2": {
+      "SSID": "ssid",
+      "pass": "pass"
+    },
+    "3": {
+      "SSID": "ssid",
+      "pass": "pass"
+    },
+    "ilosc": 3
+  }
+}
