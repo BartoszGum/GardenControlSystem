@@ -1,1 +1,1 @@
-Master
+Master directory
