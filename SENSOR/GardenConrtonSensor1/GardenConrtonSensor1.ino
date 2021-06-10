@@ -31,7 +31,7 @@ IPAddress gate(192, 168, 1, 1);
 IPAddress sub(255,255,255,0);
 
 char ssid[] = "SensorsWiFi";
-char pass[] = "658B9D5B29F";
+char pass[] = "658B9D5B***";
 
 WebSocketsClient webSocket;
 
