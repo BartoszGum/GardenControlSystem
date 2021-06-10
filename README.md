@@ -12,7 +12,9 @@ There are 3 directories:
  + Buttons,
   
 -> Communicator:
- +Reading sensors data and giving it to Master using I2C
- +Has create own WiFi to communication with wireless sensors
+
+ + Reading sensors data and giving it to Master using I2C.
+ 
+ + Has create own WiFi to communication with wireless sensors
   
 -> Sensor - software for wireless sensor (not ready jet) 
