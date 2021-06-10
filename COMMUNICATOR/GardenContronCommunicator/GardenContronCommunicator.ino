@@ -50,7 +50,7 @@ TaskHandle_t CreateJsonTask = NULL;
 WebServer server(80);
 WebSocketsServer webSocket = WebSocketsServer(81);
 char ssid[] = "SensorsWiFi";
-char pass[] = "658B9D5B29F";
+char pass[] = "658B9D5B***";
 
 //Classes
 
